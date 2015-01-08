@@ -15,6 +15,7 @@ To train:
 	python train.py <doctypefile> <tag>
 
 tag => only 'p' or 'n'
+
 doctypefile => file with sentences in each line of type <tag>
 
 Example:
