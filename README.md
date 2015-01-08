@@ -5,8 +5,8 @@ python implementation of sentiment analysis for nepali language using bayesian c
 
 Tools required:
 
-Python
-MySQL
++ Python
++ MySQL
 
 Usage:
 
